@@ -1,7 +1,7 @@
 menu={
-    "sancocho": 18.000,
-    "bandeja paisa": 12.000,
-    "sudado": 15.000
+    "sancocho": 15000,
+    "bandeja paisa": 15000,
+    "sudado": 15000
 
 }
 
