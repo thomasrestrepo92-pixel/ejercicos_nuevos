@@ -1,0 +1,19 @@
+html,
+body{
+    height: 100%;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bat{
+    width: 1px;
+    height: 1px;
+    transform: scale(4);
+    position: relative;
+    left: -128px;
+    top: -128px;
+}
